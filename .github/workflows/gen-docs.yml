@@ -1,2 +1,2 @@
-- name: Doxygen Action
-  uses: mattnotmitt/doxygen-action@1.9.3
+name: Doxygen Action
+uses: mattnotmitt/doxygen-action@1.9.3
