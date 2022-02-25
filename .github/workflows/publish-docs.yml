@@ -1,5 +1,23 @@
-name: Deploy
-uses: peaceiris/actions-gh-pages@v3
-with:
-    github_token: ${{ secrets.GITHUB_TOKEN }}
-    publish_dir: ./doxygen-docs
+name: Doxygen Docs
+
+on:
+  push:
+    branches:
+      - main
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  doxygen:
+    name: "Generate and Upload Docs"
+    runs-on: [self-hosted, linux, X64]
+    steps:
+      - name: Generate
+        uses: mattnotmitt/doxygen-action@1.9.3
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./doxygen-docs
