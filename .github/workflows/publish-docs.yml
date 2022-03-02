@@ -12,8 +12,9 @@ defaults:
 jobs:
   doxygen:
     name: "Generate and Upload Docs"
-    runs-on: [self-hosted, linux, X64]
+    runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - name: Generate
         uses: mattnotmitt/doxygen-action@1.9.3
       - name: Deploy
