@@ -1,0 +1,7 @@
+<map id="nrf52::Peripheral" name="nrf52::Peripheral">
+<area shape="rect" id="node1" title=" " alt="" coords="113,80,227,107"/>
+<area shape="rect" id="node3" href="$classnrf52_1_1Power.html" title=" " alt="" coords="5,155,100,181"/>
+<area shape="rect" id="node4" href="$classnrf52_1_1Radio.html" title=" " alt="" coords="125,155,215,181"/>
+<area shape="rect" id="node5" href="$classnrf52_1_1USBD.html" title=" " alt="" coords="240,155,335,181"/>
+<area shape="rect" id="node2" href="$classdriver_1_1Peripheral.html" title=" " alt="" coords="111,5,229,32"/>
+</map>

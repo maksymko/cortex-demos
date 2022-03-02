@@ -1,0 +1,4 @@
+<map id="mock::W1CStub" name="mock::W1CStub">
+<area shape="rect" id="node1" title="Write One To Clear Handler." alt="" coords="21,80,136,107"/>
+<area shape="rect" id="node2" href="$classmock_1_1IOHandlerStub.html" title="Base class for more complex IO handlers." alt="" coords="5,5,152,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="mock::IgnoreWrites" name="mock::IgnoreWrites">
+<area shape="rect" id="node1" title="Ignore writes to the handled virtual memory address." alt="" coords="12,80,145,107"/>
+<area shape="rect" id="node2" href="$classmock_1_1IOHandlerStub.html" title="Base class for more complex IO handlers." alt="" coords="5,5,152,32"/>
+</map>

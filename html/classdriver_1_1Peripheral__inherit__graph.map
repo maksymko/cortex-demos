@@ -1,0 +1,13 @@
+<map id="driver::Peripheral" name="driver::Peripheral">
+<area shape="rect" id="node1" title=" " alt="" coords="208,5,327,32"/>
+<area shape="rect" id="node2" href="$classdriver_1_1ADC.html" title=" " alt="" coords="5,80,92,107"/>
+<area shape="rect" id="node3" href="$classdriver_1_1I2C.html" title=" " alt="" coords="117,80,197,107"/>
+<area shape="rect" id="node4" href="$classdriver_1_1Timer.html" title=" " alt="" coords="221,80,314,107"/>
+<area shape="rect" id="node6" href="$classdriver_1_1UART.html" title=" " alt="" coords="338,80,434,107"/>
+<area shape="rect" id="node8" href="$classnrf52_1_1Peripheral.html" title=" " alt="" coords="531,80,646,107"/>
+<area shape="rect" id="node5" href="$classarm_1_1SysTick.html" title=" " alt="" coords="192,155,289,181"/>
+<area shape="rect" id="node7" href="$classdriver_1_1internal_1_1UART.html" title=" " alt="" coords="314,155,458,181"/>
+<area shape="rect" id="node9" href="$classnrf52_1_1Power.html" title=" " alt="" coords="483,155,577,181"/>
+<area shape="rect" id="node10" href="$classnrf52_1_1Radio.html" title=" " alt="" coords="602,155,693,181"/>
+<area shape="rect" id="node11" href="$classnrf52_1_1USBD.html" title=" " alt="" coords="717,155,812,181"/>
+</map>

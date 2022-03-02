@@ -1,0 +1,4 @@
+<map id="mock::RegSetClearStub" name="mock::RegSetClearStub">
+<area shape="rect" id="node1" title="IO Handler for the register with separate &quot;set&quot; and &quot;clear&quot; registers." alt="" coords="5,80,165,107"/>
+<area shape="rect" id="node2" href="$classmock_1_1IOHandlerStub.html" title="Base class for more complex IO handlers." alt="" coords="12,5,159,32"/>
+</map>

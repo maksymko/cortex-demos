@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classmock_1_1IOHandlerStub.html" title="Base class for more complex IO handlers." alt="" coords="5,107,152,133"/>
+<area shape="rect" id="node2" href="$classmock_1_1IgnoreWrites.html" title="Ignore writes to the handled virtual memory address." alt="" coords="213,5,347,32"/>
+<area shape="rect" id="node3" href="$classmock_1_1RegSetClearStub.html" title="IO Handler for the register with separate &quot;set&quot; and &quot;clear&quot; registers." alt="" coords="200,56,360,83"/>
+<area shape="rect" id="node4" href="$classmock_1_1SourceIOHandler.html" title="Source reads from a list." alt="" coords="200,107,360,133"/>
+<area shape="rect" id="node5" href="$classmock_1_1W1CStub.html" title="Write One To Clear Handler." alt="" coords="223,157,337,184"/>
+<area shape="rect" id="node6" href="$classmock_1_1WriteSink.html" title="Write values into a sink." alt="" coords="207,208,353,235"/>
+</map>
