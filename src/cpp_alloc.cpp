@@ -52,4 +52,8 @@ void __attribute__((weak)) __throw_length_error(char const*) {
     while (1);
 }
 
+void __attribute__((weak)) __throw_bad_array_new_length() {
+    while (1);
+}
+
 }
